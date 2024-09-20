@@ -5,4 +5,4 @@
 
 ## License
 
-[MIT](LICENSE)
+[MIT](https://github.com/nacosvel/docs/blob/main/LICENSE)
