@@ -8,16 +8,16 @@ export const zh = defineConfig({
         // https://vitepress.dev/reference/default-theme-config
         logo: { src: '/vite-boilerplate.svg', width: 24, height: 24 },
         nav: [
-            { text: 'Home', link: '/zh/' },
-            { text: 'Examples', link: '/zh/markdown-examples' },
+            { text: 'Home', link: './' },
+            { text: 'Examples', link: './markdown-examples' },
         ],
 
         sidebar: [
             {
                 text: 'Examples',
                 items: [
-                    { text: 'Markdown Examples', link: '/zh/markdown-examples' },
-                    { text: 'Runtime API Examples', link: '/zh/api-examples' },
+                    { text: 'Markdown Examples', link: './markdown-examples' },
+                    { text: 'Runtime API Examples', link: './api-examples' },
                 ],
             },
         ],
