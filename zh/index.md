@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Markdown Examples
-      link: ./markdown-examples
+      link: /zh/guide/markdown
     - theme: alt
       text: API Examples
-      link: ./api-examples
+      link: /zh/reference/api
   image:
     src: /index.png
     alt: shadcn/ui Boilerplate
