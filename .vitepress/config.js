@@ -3,6 +3,7 @@ import { en } from '../en';
 import { zh } from '../zh';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+    base: '/docs/',
     cleanUrls: true,
     rewrites: {
         'en/:rest*': ':rest*',
